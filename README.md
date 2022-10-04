@@ -1,4 +1,4 @@
-# DCA-or-Lump-Sum-Strategy
+# DCA-or-Lump-Sum-Strategy, What Strategy Is Effective
 This repository is based on analysis between Dollar cost averaging and lump sum investment strategy.
 
 When it comes to investing, you can either invest an amount referred to as lump sum investing.

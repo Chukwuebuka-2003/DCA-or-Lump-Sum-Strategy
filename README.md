@@ -12,8 +12,8 @@ The process i used when working on this project is as follows:
 
 # Here are some images gotten from the analysis:
 
-This is the visula
-![googl](https://user-images.githubusercontent.com/56232734/193734047-179e3436-4610-48b9-95fd-92873218f78d.png
+This is the visualization of the Google stock prices over the past 10 years (2012-2022)
+![googl](https://user-images.githubusercontent.com/56232734/193734047-179e3436-4610-48b9-95fd-92873218f78d.png)
 
 ![lumpsum](https://user-images.githubusercontent.com/56232734/193734163-165206b8-4a53-414e-88e1-a6af658cca92.png)
 

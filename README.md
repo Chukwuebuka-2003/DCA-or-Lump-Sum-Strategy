@@ -19,7 +19,7 @@ This is a chart based on investing a lump sum of $30k in Google for the past 10 
 ![lumpsum](https://user-images.githubusercontent.com/56232734/193734163-165206b8-4a53-414e-88e1-a6af658cca92.png)
 
 
-This is another chart based on a dollar cost averaging investment strategyin Google stock
+This is another chart based on a dollar cost averaging investment strategy in the Google stock
 ![DCA visualization](https://user-images.githubusercontent.com/56232734/193734584-65f95134-ecc9-4d48-8b37-ca67b1e2e9e4.png)
 
 The investment days i used in this projects was 25 days.
